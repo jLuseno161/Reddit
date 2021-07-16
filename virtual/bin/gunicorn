@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/moringa/Documents/DJANGO PROJECTS/Reddit2/virtual/bin/python" "$0" "$@"
-' '''
+#!/home/moringa/Documents/django/hellodjango/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

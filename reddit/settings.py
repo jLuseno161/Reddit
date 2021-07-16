@@ -89,7 +89,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'reddit',
         'USER': 'moringa',
-    'PASSWORD':'jluseno',
+    'PASSWORD':'Access',
     }
 }
 
